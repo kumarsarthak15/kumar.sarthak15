@@ -1,3 +1,5 @@
+![logo](https://github.com/kumarsarthak15/kumar.sarthak15/blob/main/1745337879146.jpeg)
+
 <h1 align="center">Hi 👋, I'm Kumar Sarthak</h1>
 <h3 align="center">🧠 I turn data into smart, real-world solutions using Python & machine learning Always building, always curious — from models that predict to systems that adapt.</h3>
 
