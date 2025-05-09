@@ -1,4 +1,4 @@
-![logo](https://github.com/kumarsarthak15/kumar.sarthak15/blob/main/1745337879146.jpeg)
+![logo](https://github.com/kumarsarthak15/kumar.sarthak15/blob/main/Black%20and%20Orange%20Abstract%20Color%20Block%20Entrepreneurs%20LinkedIn%20Background%20Photo(1).jpg)
 
 <h1 align="center">Hi 👋, I'm Kumar Sarthak</h1>
 <h3 align="center">🧠 I turn data into smart, real-world solutions using Python & machine learning Always building, always curious — from models that predict to systems that adapt.</h3>
